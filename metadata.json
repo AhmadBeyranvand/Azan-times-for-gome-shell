@@ -1,0 +1,8 @@
+{
+  "name": "AzanTime",
+  "description": "Notife you Azan Times in your country",
+  "uuid": "azantime@ahmadbeyranvand.github.com",
+  "shell-version": [
+    "42"
+  ]
+}
